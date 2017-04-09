@@ -1,0 +1,8 @@
+
+~~~~~~~~~~~~~~~~~~~~SUMMARY~~~~~~~~~~~~~~~~~~~~
+Number of Videos: 29
+Total Number of Frames in video: 234270
+Total Number of Seconds in video: 14642
+Total Processing time of video: 12.314 seconds
+Maximum Number of Contours per Second: 2800.0
+Threshold: 0.00214285714286

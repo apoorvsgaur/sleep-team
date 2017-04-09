@@ -1,0 +1,12 @@
+Number of nights processed: 2
+5 Minute Average: 35.9638554217 Points of Interest: 83
+
+Testing Phase
+
+Night 1 Sleep Data
+5 Minute Average: 35.9638554217 Points of Interest: 83
+
+Independent Processing Phase
+
+Night 2 Sleep Data
+Correct Percentage: 0.8775510204081632
